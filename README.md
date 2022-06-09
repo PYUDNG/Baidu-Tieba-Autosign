@@ -4,7 +4,7 @@
 
 用户脚本版 百度贴吧自动签到
 
-#### 注意：因其不符合GreasyFork版权规范，本脚本已停止维护并从GreasyFork下架。由于其最新版本仍然可以正常运行，故本人现将其最后几个版本放在Github，方便编程爱好者们研究其代码。最新版本源码请阅读[v2020_10_07_1.user.js](https://github.com/PYUDNG/Baidu-Tieba-Autosign/blob/main/tiebaAllSign_v2020_10_07_1.user.js) ，最新版本下载/安装请点击以下链接之一：
+#### 注意：因其不符合GreasyFork版权规范，本脚本已停止维护并从GreasyFork下架。由于其最新版本仍然可以正常运行，故本人现将其最后几个版本放在[Github](https://github.com/PYUDNG/Baidu-Tieba-Autosign)，方便编程爱好者们研究其代码。最新版本源码请阅读[v2020_10_07_1.user.js](https://github.com/PYUDNG/Baidu-Tieba-Autosign/blob/main/tiebaAllSign_v2020_10_07_1.user.js) ，最新版本下载/安装请点击以下链接之一：
 
 [staticaly源](https://cdn.staticaly.com/gh/PYUDNG/Baidu-Tieba-Autosign/main/tiebaAllSign_v2020_10_07_1.user.js)
 
